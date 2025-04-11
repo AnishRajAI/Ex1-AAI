@@ -1,9 +1,10 @@
-### Name : ANISH RAJ P</H3>
-### Register No. 212222230010</H3>
-### Experiment 1
-### DATE: 
-                                                             Implementation of Bayesian Networks
-# Aim :
+<H3> Name : ANISH RAJ P</H3>
+<H3>Register No. 212222230010</H3>
+<H3> Experiment 1</H3>
+<H3>DATE: </H3>
+<H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
+
+## Aim :
     To create a bayesian Network for the given dataset in Python
 ## Algorithm:
 Step 1:Import necessary libraries: pandas, networkx, matplotlib.pyplot, Bbn, Edge, EdgeType, BbnNode, Variable, EvidenceBuilder, InferenceController<br/>
@@ -132,4 +133,4 @@ print(probs(df, child='RainTomorrow', parent1='Humidity3pmCat', parent2='WindGus
 ![image](https://github.com/user-attachments/assets/f2a8a89e-c18c-4485-90f1-ff0b3cc93b1f)
 
 ## Result:
-Thus a Bayesian Network is generated using Python
+   Thus a Bayesian Network is generated using Python
